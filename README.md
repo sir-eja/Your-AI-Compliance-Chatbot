@@ -1,2 +1,1 @@
-# -Your-AI-Chatbot
-Pre-built AI chatbot templates for FAQs, compliance, and order tracking. Includes Google Sheets integration, compliance rules, and analytics dashboard.
+A collection of AI chatbot projects, including FAQ bots, compliance automation, and order tracking. Built using Rasa, Dialogflow, and Streamlit analytics.
