@@ -1,0 +1,11 @@
+version: "3.1"
+intents:
+  - ask_hours
+  - track_order
+
+responses:
+  utter_ask_hours:
+    - text: "We are open from 9 AM to 5 PM, Monday to Friday."
+
+  utter_track_order:
+    - text: "Please provide your order ID."
